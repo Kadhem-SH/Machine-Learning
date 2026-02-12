@@ -18,6 +18,6 @@ Steps Performed
 
 Files Included
 
-* `Lab2_MobilePrice.ipynb` → Python notebook for data exploration.
+* `Lab2_MobilePrice` → Python notebook for data exploration.
 * `test.csv` → Dataset used in the lab.
 * `image.png` → Workflow diagram.
